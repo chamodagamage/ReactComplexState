@@ -1,2 +1,0 @@
-# ReactComplexState
-Created with CodeSandbox
